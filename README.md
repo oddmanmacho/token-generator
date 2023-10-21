@@ -25,7 +25,7 @@ Project can be setup in your local using either via `Bash` or `Docker`.
 <table>
   <tbody style="border:none">
     <tr>
-      <td><img src="./images/front-end.png.png" width="480px" height="340px" /></td>
+      <td><img src="./images/front-end.png" width="480px" height="340px" /></td>
     </tr>
   </tbody>
 </table>
