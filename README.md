@@ -21,17 +21,26 @@ Project can be setup in your local using either via `Bash` or `Docker`.
 
 ### **Start the app using Docker** :bicyclist:
 > - To start the containers, execute the command `docker-compose up -d`. Please note that there is a compatibility issue with MacOS M1 chipset for the base image "/openjdk:17-jdk-alpine" used for the back-end app. It should work seamlessly on Linux and Windows systems.
-
+https://github.com/oddmanmacho/token-generator/blob/main/images/front-end.png
+![Settings Window](https://raw.github.com/oddmanmacho/token-generator/main/images/front-end.png)
 <table>
   <tbody style="border:none">
     <tr>
-      <td><img src="./images/front-end.png" width="480px" height="340px" /></td>
+        <td> Front End</td>
+    <tr>
+      <td><img src="https://raw.github.com/oddmanmacho/token-generator/main/images/front-end.png" width="480px" height="340px" /></td>
     </tr>
     <tr>
-      <td><img src="./images/token_generation.jpg" width="480px" height="340px" /></td>
+        <td>Token Generation</td>
+    <tr>
+    <tr>
+      <td><img src="https://raw.github.com/oddmanmacho/token-generator/main/images/token_generation.png" width="480px" height="340px" /></td>
     </tr>
     <tr>
-      <td><img src="./images/token_validated.jpg" width="480px" height="340px" /></td>
+        <td>User input validator</td>
+    <tr>
+    <tr>
+      <td><img src="https://raw.github.com/oddmanmacho/token-generator/main/images/token_validated.png" width="480px" height="300px" /></td>
     </tr>
   </tbody>
 </table>
