@@ -22,9 +22,10 @@ Project can be setup in your local using either via `Bash` or `Docker`.
 ### **Start the app using Docker** :bicyclist:
 > - To start the containers, execute the command `docker-compose up -d`. Please note that there is a compatibility issue with MacOS M1 chipset for the base image "/openjdk:17-jdk-alpine" used for the back-end app. It should work seamlessly on Linux and Windows systems.
 
-### **Once the app is up** :bicyclist:
-Access front-end app: `http://localhost:8080`
-To check backend app: `http://localhost:8081/api/info` // This end-point will give a description of app.
+### **Once the app is up** ❗
+> - Access front-end app: `http://localhost:8080`
+> - To check backend app: `http://localhost:8081/api/info` // This end-point will give a description of app.
+>   
 <table>
   <tbody style="border:none">
     <tr>
