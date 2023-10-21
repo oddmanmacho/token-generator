@@ -27,6 +27,12 @@ Project can be setup in your local using either via `Bash` or `Docker`.
     <tr>
       <td><img src="./images/front-end.png" width="480px" height="340px" /></td>
     </tr>
+    <tr>
+      <td><img src="./images/token_generation.jpg" width="480px" height="340px" /></td>
+    </tr>
+    <tr>
+      <td><img src="./images/token_validated.jpg" width="480px" height="340px" /></td>
+    </tr>
   </tbody>
 </table>
           
